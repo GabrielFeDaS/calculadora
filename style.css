@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+
+.main{
+    margin: 5% auto;
+    width: 30%;
+    background-color: blueviolet;
+    padding: 50px;
+    border-radius: 25px;
+}
+
+form{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.text{
+    width: 100%;
+    font-weight: bold;
+}
+
+.mainnum{
+    width: 20%;
+    display: inline-block;
+    margin: 2% 2% 0 2%;
+    border-radius: 20px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.colorido{
+    width: 20%;
+    border-radius: 20px;
+    margin: 2% 2% 0 2%;
+    padding: 5px;
+    background-color: purple;
+    font-weight: bold;
+}
